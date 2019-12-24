@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Application Test Automation Test Suite">
+
+	
+
+	<test name="Automation Test Cases">
+		<classes>
+			<class name="com.citis.testcases.LoginPageTest"></class>
+			
+			
+		</classes>
+	</test>
+</suite>
