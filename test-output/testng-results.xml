@@ -2,48 +2,48 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2019-12-24T03:34:48Z" name="Application Test Automation Test Suite" finished-at="2019-12-24T03:35:29Z" duration-ms="41207">
+  <suite started-at="2019-12-25T14:08:16Z" name="Default suite" finished-at="2019-12-25T14:08:58Z" duration-ms="41751">
     <groups>
     </groups>
-    <test started-at="2019-12-24T03:34:48Z" name="Automation Test Cases" finished-at="2019-12-24T03:35:29Z" duration-ms="41207">
+    <test started-at="2019-12-25T14:08:16Z" name="Default test" finished-at="2019-12-25T14:08:58Z" duration-ms="41751">
       <class name="com.citis.testcases.LoginPageTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.citis.testcases.LoginPageTest@d21a74c]" started-at="2019-12-24T03:34:48Z" name="setUp" finished-at="2019-12-24T03:35:00Z" duration-ms="12013" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.citis.testcases.LoginPageTest@3c0be339]" started-at="2019-12-25T14:08:16Z" name="setUp" finished-at="2019-12-25T14:08:29Z" duration-ms="13003" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="loginPageTitle()[pri:1, instance:com.citis.testcases.LoginPageTest@d21a74c]" started-at="2019-12-24T03:35:00Z" name="loginPageTitle" finished-at="2019-12-24T03:35:00Z" duration-ms="526" status="PASS">
+        <test-method signature="loginPageTitle()[pri:1, instance:com.citis.testcases.LoginPageTest@3c0be339]" started-at="2019-12-25T14:08:29Z" name="loginPageTitle" finished-at="2019-12-25T14:08:30Z" duration-ms="429" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginPageTitle -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.citis.testcases.LoginPageTest@d21a74c]" started-at="2019-12-24T03:35:00Z" name="tearDown" finished-at="2019-12-24T03:35:02Z" duration-ms="1273" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.citis.testcases.LoginPageTest@3c0be339]" started-at="2019-12-25T14:08:30Z" name="tearDown" finished-at="2019-12-25T14:08:31Z" duration-ms="1536" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.citis.testcases.LoginPageTest@d21a74c]" started-at="2019-12-24T03:35:02Z" name="setUp" finished-at="2019-12-24T03:35:12Z" duration-ms="10637" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.citis.testcases.LoginPageTest@3c0be339]" started-at="2019-12-25T14:08:31Z" name="setUp" finished-at="2019-12-25T14:08:42Z" duration-ms="10660" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="LogoimmageTest()[pri:2, instance:com.citis.testcases.LoginPageTest@d21a74c]" started-at="2019-12-24T03:35:12Z" name="LogoimmageTest" finished-at="2019-12-24T03:35:12Z" duration-ms="63" status="PASS">
+        <test-method signature="LogoimmageTest()[pri:2, instance:com.citis.testcases.LoginPageTest@3c0be339]" started-at="2019-12-25T14:08:42Z" name="LogoimmageTest" finished-at="2019-12-25T14:08:42Z" duration-ms="57" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LogoimmageTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.citis.testcases.LoginPageTest@d21a74c]" started-at="2019-12-24T03:35:12Z" name="tearDown" finished-at="2019-12-24T03:35:14Z" duration-ms="1197" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.citis.testcases.LoginPageTest@3c0be339]" started-at="2019-12-25T14:08:42Z" name="tearDown" finished-at="2019-12-25T14:08:43Z" duration-ms="968" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.citis.testcases.LoginPageTest@d21a74c]" started-at="2019-12-24T03:35:14Z" name="setUp" finished-at="2019-12-24T03:35:24Z" duration-ms="10683" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.citis.testcases.LoginPageTest@3c0be339]" started-at="2019-12-25T14:08:43Z" name="setUp" finished-at="2019-12-25T14:08:53Z" duration-ms="10475" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="loginTest()[pri:3, instance:com.citis.testcases.LoginPageTest@d21a74c]" started-at="2019-12-24T03:35:24Z" name="loginTest" finished-at="2019-12-24T03:35:28Z" duration-ms="3831" status="PASS">
+        <test-method signature="loginTest()[pri:3, instance:com.citis.testcases.LoginPageTest@3c0be339]" started-at="2019-12-25T14:08:53Z" name="loginTest" finished-at="2019-12-25T14:08:57Z" duration-ms="3566" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.citis.testcases.LoginPageTest@d21a74c]" started-at="2019-12-24T03:35:28Z" name="tearDown" finished-at="2019-12-24T03:35:29Z" duration-ms="936" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.citis.testcases.LoginPageTest@3c0be339]" started-at="2019-12-25T14:08:57Z" name="tearDown" finished-at="2019-12-25T14:08:58Z" duration-ms="1016" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.citis.testcases.LoginPageTest -->
-    </test> <!-- Automation Test Cases -->
-  </suite> <!-- Application Test Automation Test Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
